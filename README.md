@@ -1,2 +1,9 @@
-# Angry_Birds_-_Zero-Gravity_Edition
+# Angry Birds - Zero-Gravity Edition
+
+- **Projekt-Zeitraum:** 26.10. - 04.12.2026 (6 Wochen)
+- **Aufgaben-Aufteilung:** 
+	- Garfind28: ...
+	- MISCHUC4334: ...
+	- SpongeFlop007: ...
+
 Kennst du das, wenn du den Kühlschrank auf machst und dein Toaster dann nach Fisch riecht? Ich auch nicht, aber hier wird die Zero-Gravity Edition von Angry Birds programmiert. Sei gespannt was daraus wird :D
